@@ -1,0 +1,19 @@
+PROJECT Option 2: HITS and PageRank Algorithm implementations
+
+a. HITS algorithm
+
+How to run the project?
+compile java file to run hits algorithm -> javac jay3152hits.java
+Run java file -> java jay1001hits.java iteration(4) initial(-1) samplegraph.txt
+
+samplegraph.txt provided, given in prp handout
+
+b. Google’s PageRank algorithm
+
+How to run the project?
+compile java file to run pagerank algorthm -> javac jay1001pgrk.java
+Run java file -> java jay1001pgrk iteration(4) initial(-1) samplegraph.txt
+
+samplegraph.txt provided, given in prp handout
+
+BUG REPORT: NO BUGS TO REPORT
